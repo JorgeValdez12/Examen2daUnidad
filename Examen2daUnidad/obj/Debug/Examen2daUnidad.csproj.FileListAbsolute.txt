@@ -1,0 +1,7 @@
+c:\users\luisfrancisco\documents\visual studio 2015\Projects\Examen2daUnidad\Examen2daUnidad\obj\Debug\Examen2daUnidad.csprojResolveAssemblyReference.cache
+c:\users\luisfrancisco\documents\visual studio 2015\Projects\Examen2daUnidad\Examen2daUnidad\bin\Debug\Examen2daUnidad.dll
+c:\users\luisfrancisco\documents\visual studio 2015\Projects\Examen2daUnidad\Examen2daUnidad\bin\Debug\Examen2daUnidad.pdb
+c:\users\luisfrancisco\documents\visual studio 2015\Projects\Examen2daUnidad\Examen2daUnidad\bin\Debug\nunit.framework.dll
+c:\users\luisfrancisco\documents\visual studio 2015\Projects\Examen2daUnidad\Examen2daUnidad\bin\Debug\nunit.framework.xml
+c:\users\luisfrancisco\documents\visual studio 2015\Projects\Examen2daUnidad\Examen2daUnidad\obj\Debug\Examen2daUnidad.dll
+c:\users\luisfrancisco\documents\visual studio 2015\Projects\Examen2daUnidad\Examen2daUnidad\obj\Debug\Examen2daUnidad.pdb
